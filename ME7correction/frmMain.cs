@@ -7,6 +7,7 @@ namespace ME7correction
 {
     public partial class frmMain : Form
     {
+		//ECU Part Information
         public string filePath = "";
         public string correctedFilePath = "";
         public string binName = "";
