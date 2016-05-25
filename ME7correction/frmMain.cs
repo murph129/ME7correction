@@ -25,7 +25,7 @@ namespace ME7correction
         public frmMain()
         {
             InitializeComponent();
-            lblVersion.Text = "V160306";
+            lblVersion.Text = "V160524";
         }
 
         private void button3_Click(object sender, EventArgs e)
