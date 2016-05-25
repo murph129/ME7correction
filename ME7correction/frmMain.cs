@@ -366,7 +366,7 @@ namespace ME7correction
         private void timer1_Tick(object sender, EventArgs e)
         {
             timer1.Enabled = false;
-            MessageBox.Show("ME7 Correction Utility - GUI created by Murph @Nefarious Motorsports\nAll credit for the \"me7check.exe\" and \"me7sum.exe\" goes to nyet and 360trev.\n\n*** Neither Nefarious Motorsports, nyet, 360trev, or I the creator of this utility take responsibility for the failed validation or correction of any .bin files.\nNor take responsiblity for failed flashing or bricking of an ECU due to an incorrect or faulty .bin file used.", "About", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("ME7 Correction Utility - GUI created by Murph @Nefarious Motorsports\nAll credit for the \"me7check.exe\" and \"me7sum.exe\" goes to nyet and 360trev.\n\n*** Neither Nefarious Motorsports, nyet, 360trev, or I the creator of this utility take responsibility for the failed validation or correction of any .bin files.\nNor take responsiblity for failed flashing or bricking of an ECU due to an incorrect or faulty .bin file used.\n\nFind this project and othes on GIThub!\nhttps://github.com/murph129", "About", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }
